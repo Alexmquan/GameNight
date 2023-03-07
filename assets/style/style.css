@@ -1,1 +1,24 @@
 /* BASIC STYLES HERE */
+.player-image {
+  object-position: center;
+  object-fit: cover;
+  height: 4vh;
+  width: 2vw;
+  border-radius: 50%;
+  border: 3px solid rgb(201, 22, 132);
+}
+
+.card-style {
+  height: 60vh;
+  background-color: #EB8258;
+  border: 3px solid #a222dd;
+  ;
+  color: #a222dd;
+
+}
+
+.title-style {
+  border: 3px solid rgb(201, 22, 132);
+  color: #a222dd;
+  border-radius: 4px;
+}
